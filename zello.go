@@ -47,7 +47,8 @@ str := []struct {
 		{13, true},
 	}
 	fmt.Println(str)
-
+	fmt.Println("completed")
+ 
 
 }
 
